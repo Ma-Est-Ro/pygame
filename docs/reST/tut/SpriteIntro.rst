@@ -36,7 +36,7 @@ and pygame.
 
 Note that this introduction will assume you have a bit of experience
 programming with python, and are somewhat familiar with the different parts of
-creating a simple game.  In this tutorial the word "reference" is occasionally
+creating a simple game. In this tutorial the word "reference" is occasionally
 used.  This represents a python variable. Variables in python are references,
 so you can have several variables all pointing to the same object.
 
@@ -311,7 +311,7 @@ Here's a summary of what they are, and what they do.
     This is similar to the ``spritecollide`` function, but a little more complex.
     It checks for collisions for all the sprites in one group, to the sprites in
     another. There is a ``dokill`` argument for the sprites in each list. When
-    ``dokill1`` is true, the colliding sprites in ``group1`` will be ``kill()``ed.
+    ``dokill1`` is true, the colliding sprites in ``group1`` will be ``kill()`` -ed.
     When ``dokill2`` is true, we get the same results for ``group2``. The
     dictionary it returns works like this; each key in the dictionary is a sprite
     from ``group1`` that had a collision.  The value for that key is a list of the
@@ -409,7 +409,7 @@ ordinary python container. (This is important, because several sprite methods
 can take an argument of a single group, or a sequence of groups. Since they
 both look similar, this is the most flexible way to "see" the difference.)
 
-You should through the code for the sprite module. While the code is a bit
+You should go through the code for the sprite module. While the code is a bit
 "tuned", it's got enough comments to help you follow along.  There's even a
 TODO section in the source if you feel like contributing.
 
