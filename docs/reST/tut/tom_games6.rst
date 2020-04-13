@@ -326,4 +326,4 @@ As well as showing you the final product, I'll point you back to TomPong, upon w
 at the source code, and you'll see a full implementation of pong using all of the code you've seen in this tutorial, as well as lots of
 other code I've added in various versions, such as some extra physics for spinning, and various other bug and glitch fixes.
 
-Oh, find TomPong at http://www.tomchance.uklinux.net/projects/pong.shtml.
+Oh, find TomPong at http://www.tomchance.uklinux.net/projects/pong.shtml.[broken_link]
